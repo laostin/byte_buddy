@@ -1,0 +1,8 @@
+type: edu
+files:
+- name: src/bytebuddy/HelloClass.java
+  visible: true
+- name: src/bytebuddy/GreetDynamicClass.java
+  visible: true
+- name: test/ByteBuddyTestsTwo.java
+  visible: false

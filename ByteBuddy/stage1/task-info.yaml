@@ -1,0 +1,6 @@
+type: edu
+files:
+- name: src/bytebuddy/DynamicClass.java
+  visible: true
+- name: test/ByteBuddyTestsOne.java
+  visible: false

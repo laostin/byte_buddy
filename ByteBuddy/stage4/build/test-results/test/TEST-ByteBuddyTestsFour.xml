@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ByteBuddyTestsFour" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-28T13:23:48" hostname="C11124" time="0.758">
+  <properties/>
+  <testcase name="start" classname="ByteBuddyTestsFour" time="0.758"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

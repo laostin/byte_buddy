@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/byte_buddy.iml" filepath="$PROJECT_DIR$/.idea/byte_buddy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ByteBuddy/stage1/byte_buddy.ByteBuddy-stage1.iml" filepath="$PROJECT_DIR$/.idea/modules/ByteBuddy/stage1/byte_buddy.ByteBuddy-stage1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ByteBuddy/stage1/byte_buddy.ByteBuddy-stage1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ByteBuddy/stage1/byte_buddy.ByteBuddy-stage1.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ByteBuddy/stage1/byte_buddy.ByteBuddy-stage1.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ByteBuddy/stage1/byte_buddy.ByteBuddy-stage1.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ByteBuddy/stage2/byte_buddy.ByteBuddy-stage2.iml" filepath="$PROJECT_DIR$/.idea/modules/ByteBuddy/stage2/byte_buddy.ByteBuddy-stage2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ByteBuddy/stage2/byte_buddy.ByteBuddy-stage2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ByteBuddy/stage2/byte_buddy.ByteBuddy-stage2.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ByteBuddy/stage2/byte_buddy.ByteBuddy-stage2.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ByteBuddy/stage2/byte_buddy.ByteBuddy-stage2.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ByteBuddy/stage3/byte_buddy.ByteBuddy-stage3.iml" filepath="$PROJECT_DIR$/.idea/modules/ByteBuddy/stage3/byte_buddy.ByteBuddy-stage3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ByteBuddy/stage3/byte_buddy.ByteBuddy-stage3.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ByteBuddy/stage3/byte_buddy.ByteBuddy-stage3.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ByteBuddy/stage3/byte_buddy.ByteBuddy-stage3.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ByteBuddy/stage3/byte_buddy.ByteBuddy-stage3.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ByteBuddy/stage4/byte_buddy.ByteBuddy-stage4.iml" filepath="$PROJECT_DIR$/.idea/modules/ByteBuddy/stage4/byte_buddy.ByteBuddy-stage4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ByteBuddy/stage4/byte_buddy.ByteBuddy-stage4.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ByteBuddy/stage4/byte_buddy.ByteBuddy-stage4.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ByteBuddy/stage4/byte_buddy.ByteBuddy-stage4.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ByteBuddy/stage4/byte_buddy.ByteBuddy-stage4.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/byte_buddy.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/byte_buddy.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/byte_buddy.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/byte_buddy.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/byte_buddy.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/byte_buddy.util.test.iml" />
+    </modules>
+  </component>
+</project>
